@@ -1,10 +1,7 @@
-{
-  "kind": "Namespace",
-  "apiVersion": "v1",
-  "metadata": {
-    "name": "devops",
-    "labels": {
-      "name": "devops"
-    }
-  }
-}
+---
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: devops
+  labels:
+    name: devops
